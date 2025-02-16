@@ -1,0 +1,30 @@
+#define IDR_VERSION 1
+
+#include "resource.h"
+
+IDR_VERSION VERSIONINFO
+FILEVERSION 0,0,0,1
+PRODUCTVERSION 0,0,0,1
+FILEOS 0x00000004
+FILETYPE 0x00000003
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "04090000"
+    BEGIN
+      VALUE "FileVersion", "0.0.0.1\0"
+      VALUE "ProductVersion", "0.0.0.1\0"
+      VALUE "CompanyName", "OnLyOnE\0"
+      VALUE "FileDescription", "Library for obtaining information for the inline patch Armadillo x64\0"
+      VALUE "InternalName", "GETINFO\0"
+      VALUE "LegalCopyright", "© 2001-2020 OnLyOnE, aLL rIGHTS rEVERSED.\0"
+      VALUE "OriginalFilename", "GETINFO.DLL\0"
+      VALUE "ProductName", "Armadillo x64 Inline Helper\0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 0x0000
+  END
+END
+
