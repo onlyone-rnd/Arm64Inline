@@ -9,3 +9,4 @@
 *.png binary
 *.tpl linguist-language=Text
 *.inc linguist-language=Assembly
+*.asm linguist-language=Assembly
