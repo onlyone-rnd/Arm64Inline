@@ -1,2 +1,2 @@
 # Arm64Inline
-Armadillo x64 Inline Patch ECDSA Verify v0.1
+A utility for inline patching of ECDSA verification in modules protected by Armadillo x64.
