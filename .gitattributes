@@ -1,0 +1,11 @@
+* text eol=crlf
+*.exe binary
+*.dll binary
+*.zip binary
+*.res binary
+*.gif binary
+*.bin binary
+*.ico binary
+*.png binary
+*.tpl linguist-language=Text
+*.inc linguist-language=Assembly
