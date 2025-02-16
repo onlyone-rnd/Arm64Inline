@@ -7,6 +7,6 @@
 *.bin binary
 *.ico binary
 *.png binary
-*.tpl linguist-language=Text
+*.h linguist-language=Text
 *.inc linguist-language=Assembly
 *.asm linguist-language=Assembly
