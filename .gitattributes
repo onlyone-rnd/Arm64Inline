@@ -7,6 +7,7 @@
 *.bin binary
 *.ico binary
 *.png binary
+*.bat linguist-language=Text
 *.h linguist-language=Text
 *.inc linguist-language=Assembly
 *.asm linguist-language=Assembly
